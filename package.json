@@ -1,0 +1,19 @@
+{
+  "name": "parakeet-functions",
+  "version": "0.1.0",
+  "description": "Back-end cloud functions for Parakeet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCraftKid/parakeet-functions.git"
+  },
+  "author": "Willie Chalmers III <willieechalmers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCraftKid/parakeet-functions/issues"
+  },
+  "homepage": "https://github.com/TheCraftKid/parakeet-functions#readme"
+}
